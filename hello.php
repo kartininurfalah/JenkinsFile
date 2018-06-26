@@ -1,4 +1,6 @@
 <?php
     $output = 'Hello World!';
-    echo $output;
+    $name = 'Falah';
+    $sum = $output + $name;
+    echo $sum;
 ?>
