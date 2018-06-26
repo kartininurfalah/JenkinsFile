@@ -1,4 +1,5 @@
 <?php
     $output = 'Hello World!';
-    echo $output;
+    $name = 'Falah';
+    echo $name;
 ?>
